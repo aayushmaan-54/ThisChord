@@ -5,7 +5,7 @@ import localFont from 'next/font/local'
 
 
 
-export const ggSans = localFont({
+const ggSans = localFont({
   src: [
     { path: '../../public/fonts/ggSans-regular.woff2', weight: '400', style: 'normal' },
     { path: '../../public/fonts/ggSans-medium.woff2', weight: '500', style: 'normal' },
