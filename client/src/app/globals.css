@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-ggsans: 'ggSans', sans-serif;
+
+  --color-primary: #2E2E34;
+  --color-secondary: #28282D;
+  --color-tertiary: #1F1F22;
+  --color-quaternary: #333339;
+  --color-accent: #5865F2;
+  --color-muted: #94949C;
+  --color-text: #FFFFFF;
+  --color-red: #E7000B;
+  --color-orange: #E17100;
+  --color-yellow: #Efb100;
+  --color-green: #00A63E;
+  --color-blue: #0092B8;
+  --color-purple: #7F22FE;
+  --color-pink: #C800DE;
+}
