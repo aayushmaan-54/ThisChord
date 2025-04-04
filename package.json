@@ -1,0 +1,14 @@
+{
+  "name": "thischord",
+  "version": "1.0.0",
+  "description": "Better \"Discord\"",
+  "license": "ISC",
+  "author": "Aayushmaan Soni",
+  "scripts": {
+    "client": "cd client & npm run dev",
+    "server": "cd server & npm run dev",
+    "i-client": "cd client & npm i",
+    "i-server": "cd server & npm i"
+  },
+  "keywords": []
+}
