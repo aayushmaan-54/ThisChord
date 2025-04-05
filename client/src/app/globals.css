@@ -18,3 +18,9 @@
   --color-purple: #7F22FE;
   --color-pink: #C800DE;
 }
+
+
+::selection {
+  background-color: rgba(87, 100, 242, 0.2);
+  color: rgba(87, 100, 242, 1);
+}

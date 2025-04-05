@@ -10,7 +10,8 @@
     "dev": "node --import=tsx --watch --env-file=.env src/server.ts",
     "build": "tsc",
     "start": "node dist/server.js",
-    "clean": "rm -rf dist"
+    "clean": "rm -rf dist",
+    "prisma-gen": "prisma generate"
   },
   "dependencies": {
     "@prisma/client": "^6.5.0",
