@@ -1,0 +1,6 @@
+.bg-image {
+  background-image: url('../_assets/doodle-bg.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
